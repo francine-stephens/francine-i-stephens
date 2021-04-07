@@ -8,7 +8,7 @@ main:
     url: '/about'
     weight: 10
   - name: Projects
-    url: '#projects'
+    url: '/project'
     weight: 20
   - name: Teaching
     url: '/courses'
@@ -17,5 +17,5 @@ main:
     url: '/resume'
     weight: 40
   - name: Contact
-    url: '#contact'
+    url: '/contact'
     weight: 50
