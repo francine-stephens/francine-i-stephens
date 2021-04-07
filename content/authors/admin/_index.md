@@ -1,52 +1,40 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I am a PhD candidate in Sociology at Stanford. 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Sociology
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: In Progress
+  - course: MA in Sociology
+    institution: Stanford University
+    year: 2020
+  - course: BA in Sociology
+    institution: University of Pennsylvania
+    year: 2017
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- GIS & Spatial Analysis
+- Data Analysis
+- Data Visualization
+- Urban Sociology
+- Geographic inequality
 organizations:
 - name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+  url: https://sociology.stanford.edu/people/francine-stephens
+role: PhD Candidate in Sociology
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/francine-stephens
 superuser: true
-title: Nelson Bighetti
+title: Francine Stephens
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Currently, I am a PhD candidate in Sociology at Stanford University. My research spans a wide array of topics - education, environmental justice, neighborhood change, political infrastructure, and crime - but the overarching motivation behind my projects is a passion for using geospatial data to address applied geographic and geospatial problems from drawing borders and boundaries to facility siting to resource allocation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
